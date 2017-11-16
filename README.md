@@ -15,6 +15,7 @@
 
 `git clone https://github.com/mbrowniebytes/symfony-search-language.git`
 
-## Serve the project and visit 127.0.0.1:8096
+## Serve the project and visit 127.0.0.1:8096/api/v1/quote
  
-`php bin/console server:start`  
+ Configure Nginx using nginx-example.conf within /etc/nginx/sites-enabled/
+`vi nginx-example.conf`  
