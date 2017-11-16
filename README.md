@@ -13,7 +13,7 @@
  
 ## Clone this repo
 
-`git clone https://github.com/mbrowniebytes/symfony-search-language.git`
+`git clone https://github.com/mbrowniebytes/symfony-api-quote.git`
 
 ## Serve the project and visit 127.0.0.1:8096/api/v1/quote
  
