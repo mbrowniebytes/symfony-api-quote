@@ -17,5 +17,5 @@
 
 ## Serve the project and visit 127.0.0.1:8096/api/v1/quote
  
- Configure Nginx using nginx-example.conf within /etc/nginx/sites-enabled/
+ Configure Nginx using nginx-example.conf within /etc/nginx/sites-enabled/  
 `vi nginx-example.conf`  
