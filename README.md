@@ -15,6 +15,10 @@
 
 `git clone https://github.com/mbrowniebytes/symfony-api-quote.git`
 
+## Update project
+
+`composer update`  
+
 ## Serve the project and visit 127.0.0.1:8096/api/v1/quote
  
  Configure Nginx using nginx-example.conf within /etc/nginx/sites-enabled/  
